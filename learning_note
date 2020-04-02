@@ -1,7 +1,11 @@
 #scRNA-seq analysis pipeline based on python
    https://oscar-franzen.github.io/adobo/
+   https://github.com/meichendong/SCDC   # translating bulk RNA-seq into scRNA-seq results based on previous scRNA-seq results as reference
+                                         # Bulk Gene Expression Deconvolution by Multiple Single-Cell RNA Sequencing References
    
 #scRNA-seq analysis pipeline based on R
    https://scrnaseq-course.cog.sanger.ac.uk/website/index.html
    https://panglaodb.se/search.html      #database storing processed human and mouse scRNA-seq data with searchable tsne plot and clustering plot
    http://sandberg.cmb.ki.se/pancreas/   #human pancreatic islet scRNA-seq data with searchable tsne plot and boxplot
+   https://www.sciencescott.com/pancreatic-scrnaseq
+   https://www.scrna-tools.org/tools
