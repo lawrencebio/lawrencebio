@@ -1,0 +1,7 @@
+#scRNA-seq analysis pipeline based on python
+   https://oscar-franzen.github.io/adobo/
+   
+#scRNA-seq analysis pipeline based on R
+   https://scrnaseq-course.cog.sanger.ac.uk/website/index.html
+   https://panglaodb.se/search.html      #database storing processed human and mouse scRNA-seq data with searchable tsne plot and clustering plot
+   http://sandberg.cmb.ki.se/pancreas/   #human pancreatic islet scRNA-seq data with searchable tsne plot and boxplot
